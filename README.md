@@ -1,11 +1,11 @@
  <h1 align="center">Olá! 👋, sou Guilherme</h1>
  
- <h3>Linguagens e Ferramentas</h3>
- 
  <p align="left">
 <a href="https://www.linkedin.com/in/guilherme-albuquerque-504730255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/teuLinkDoLinkedinAqui/" height="30" width="40" /></a>
 </p>
-
+ 
+ <h3>Linguagens e Ferramentas</h3>
+ 
 <div align="left">
 <!-- HTML -->
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> </a>
