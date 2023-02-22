@@ -1,5 +1,7 @@
  <h1 align="center">Olá! 👋, sou Guilherme</h1>
  
+ <h2 align="left">Acesse meu LinkedIn</h2>
+ 
  <p align="left">
 <a href="https://www.linkedin.com/in/guilherme-albuquerque-504730255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/teuLinkDoLinkedinAqui/" height="30" width="40" /></a>
 </p>
