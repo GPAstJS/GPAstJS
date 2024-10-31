@@ -19,4 +19,5 @@
 </a> <a href="#" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /> </a>
 <!--  Bootstrap  -->
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /> </a>
+<!-- TailwindCSS -->
 </div>
